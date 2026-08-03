@@ -1,6 +1,10 @@
 # GTFO
 ### Get The Flock Out: Flock Surveillance Accountability
 
+I wanted to see how my local municipality (Coon Rapids, MN) was using its Flock camera system. So in April 2026 I submitted a FOIA request for the event logs from the implementation of the system to the date of my request in April.
+
+[Here is my analysis](https://github.com/condorairlines/GTFO_CR/blob/main/analysis.ipynb)
+
 For me, and seemingly for many in the United States, Flock cameras are the last straw. As a Milennial, I've grown up on the internet and seen companies like Google, Meta, and Amazon exponentially explode and invade our lives. More and more our data is harvested for God-knows-what reasons, which it's later uncovered are reasons not so salutary, laudable, or good. All this data harvesting seems to be good for is enriching the asset-owning class while telling us all stories amounting to "don't worry, it'll eventually be good for you! Really!" 
 
 As the father of a soon-to-be second grader, and as a professional Data Analyst, I want to do something so my daughter and her friends can enjoy learning, growing, and playing without their data being harvested to manipulate and nudge them toward ends they might not really want. But of course, on my way to drop my daughter off at school what do I drive past?
