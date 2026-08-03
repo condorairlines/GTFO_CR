@@ -1,5 +1,6 @@
 # GTFO
 ### Get The Flock Out: Flock Surveillance Accountability
+### Coon Rapids, MN
 
 I wanted to see how my local municipality (Coon Rapids, MN) was using its Flock camera system. So in April 2026 I submitted a FOIA request for the event logs from the implementation of the system to the date of my request in April.
 
